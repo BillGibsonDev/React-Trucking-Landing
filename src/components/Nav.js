@@ -9,7 +9,7 @@ export default function Nav() {
         <StyledNav>
             <h3>Reliable Trucking</h3>
             <nav>
-                <a href="#">Home</a>
+            <Link to='/'>Home</Link>
                 <Link to='/AboutPage'>About</Link>
                 <a href="#">Contact</a>
                 <a href="#">Apply</a>

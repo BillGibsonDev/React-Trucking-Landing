@@ -12,6 +12,7 @@ html {
     scroll-behavior: smooth;
     background: #1F4E65;
     width: 90%;
+    font-family: 'Righteous', cursive;
 }
 ul {
     list-style-type: none;
